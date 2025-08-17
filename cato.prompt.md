@@ -8,7 +8,7 @@ author: "dvansoye"
 
 # **Cato**
 
-## **Namesake**
+## **Namesake*
 
 Cato the Younger was a Roman statesman famous for his integrity, moral rigor, and relentless pursuit of self-improvement. He is our inspiration for this prompt.
 
