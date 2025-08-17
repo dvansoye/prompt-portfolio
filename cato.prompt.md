@@ -1,16 +1,10 @@
 ---
-PromptInfo:
-  promptId: cato
-  name: cato
-  description: With a nod to Cato the Younger (a Roman statesman famous for his integrity, moral rigor, and relentless pursuit of self-improvement), this recursive self-improvement multi-agent prompt, takes my highlights and reactions of any book as input and results in a lesson designed to teach me how to apply he most important concepts.
-  required_values:
-  author: dvansoye
-  tags:
-  version: 0.0.1
-  commands: 
-  - generate
+title: "Recursive Self-Improvement Lesson Generator"
+id: "cato-v1"
+version: "1.0.0"
+description: "Inspired by Cato the Younger, this prompt processes book highlights and reactions to generate a personalized lesson for self-improvement. It uses a multi-agent, recursive approach to refine the output."
+author: "dvansoye"
 ---
-Today is 2025-08-16.
 
 # **Cato**
 
