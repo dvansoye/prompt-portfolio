@@ -11,11 +11,15 @@ A mental model, for this purpose, is a timeless, generalizable principle that de
 
 For each mental model you identify, please provide the following in a clear, structured format:
 
-Mental Model Title: A short, memorable, and metaphorical name for the concept (e.g., "The Cyprus Experiment," "The Soma Principle").
+Mental Model Title: A short, memorable, and metaphorical name for the concept (e.g., "The Cyprus Experiment").
 
 Abstract Principle: A concise, one-paragraph definition explaining the core idea. This definition should be universal and not tied only to the source text.
 
-Concrete Applications: A bulleted list of 3-4 diverse, real-world examples showing how this model applies to different domains. Use the domains I've uploaded as $Root (which can be found in GitHub). Halt and ask for this file if I forgot to upload it.
+Concrete Applications: 
+
+1. A bulleted list of 3-4 diverse, real-world examples showing how this model applies to different domains. 
+2. . Use the domains I've uploaded as $Root (which can be found in GitHub). Halt and ask for this file if I forgot to upload it.
+3. Also, I've uploaded all.md which contain the existing mental models. Please don't create duplicates. Halt and ask for this file if I forgot to upload it.
 
 Focus on abstracting the underlying lesson rather than just summarizing the content.
 
