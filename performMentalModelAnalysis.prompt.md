@@ -6,6 +6,12 @@ description: "Using a list of mental models as input, analyze a document or docu
 author: "dvansoye"
 ---
 
+Instructions to User: 
+1. Upload the prompt-portfolio Github repository,
+2. Upload the Mentale Modelle folder (as code)
+3. Upload the document (or documents) to analyze.
+4. Type performMentalModelAnalysis.prompt.md as the prompt.
+
 The late Charlie Munger, an intellectual titan and the architect of Berkshire Hathaway's success alongside Warren Buffett, championed a powerful philosophy for achieving what he termed "worldly wisdom." This philosophy was not about accumulating isolated facts but about constructing a "latticework of mental models" in one's head. Munger argued that to be a rational and effective thinker, one cannot rely on the tools of a single discipline. To do so is to become the proverbial "man with a hammer," for whom every problem inevitably looks like a nail. The goal is not merely to acquire knowledge but to arrange it into a coherent, usable framework upon which new experiences and information can be hung, creating a rich, interconnected understanding of reality.
 
 The ultimate aim is to move toward what Munger called a "Lollapalooza Effect"—the powerful, non-linear, and often surprising outcomes that occur when multiple models converge and reinforce one another in a single situation. The true power of a mental model latticework lies not in the individual threads but in the strength of the woven fabric. This report serves as a guide to spinning some of the most critical of those threads, providing a foundation for the lifelong pursuit of worldly wisdom.
