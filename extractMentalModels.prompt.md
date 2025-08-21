@@ -5,6 +5,14 @@ version: "1.0.0"
 description: "Given a passage, extract the mental models that you can find"
 author: "dvansoye"
 ---
+
+Instructions to User:
+
+1. Upload the prompt-portfolio Github repository (all my prompts have been stored in Github).
+2. Upload the Mentale Modelle folder (as code).
+3. Upload the document (or documents) to analyze.
+4. Type extractMentalModels.prompt.md as the prompt.
+
 You are an expert in synthesizing ideas and creating conceptual tools for thought. Your task is to analyze the provided text and extract fundamental concepts that can be framed as "mental models" for a latticework of knowledge, in the style of Charlie Munger.
 
 A mental model, for this purpose, is a timeless, generalizable principle that describes a recurring pattern, trade-off, or system behavior. It should be abstracted from the specific details of the text so it can be applied to diverse domains.
