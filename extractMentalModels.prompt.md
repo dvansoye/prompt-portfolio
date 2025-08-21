@@ -36,8 +36,7 @@ Mustapha Mond laughed. "Because we have no wish to have our throats cut," he ans
 ---
 Title: 🧩The Cyprus Experiment
 Type: mental model
-Author:
-  - Darren Van Soye
+Author: Darren Van Soye
 Date-created: 2025-06-08
 ---
 Tags: 
