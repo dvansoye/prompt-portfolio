@@ -55,6 +55,10 @@ Before proceeding, verify that two types of files have been provided:
         
     - For each insight, pinpoint the primary **leverage point(s)**. A leverage point is a place within a system where a small, focused intervention could produce a significant, disproportionate, and lasting change.
         
+- **Section 3: The Lollapalooza Effect
+
+    - Answer this questions: Do you think this analysis rises to the "Lollapalooza Effect"? Why or why not?
+ 
 
 ### 4. Example of Analysis (Using a Geopolitical Document)
 
