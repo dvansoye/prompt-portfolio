@@ -33,7 +33,7 @@ Before proceeding, verify that two types of files have been provided:
 
 - **Section 1: Mental Model Application Matrix**
     
-    - Systematically analyze the events and dynamics described in the **Target Analysis File** through the lens of the mental models. For each relevant mental model, generate a markdown table with the following columns:
+    - Systematically analyze the events and dynamics described in the **Target Analysis File** through the lens of the mental models. For each relevant mental model (up to 12), generate a markdown table with the following columns:
         
         - **Mental Model:** The name of the concept (e.g., Asymmetric Warfare, Feedback Loops).
             
