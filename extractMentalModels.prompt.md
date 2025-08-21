@@ -47,7 +47,8 @@ Type: mental model
 Author: Darren Van Soye
 Date-created: 2025-06-08
 ---
-Tags: 
+
+Tags: [[Latticework of Mental Models]]
 
 - [x] Review 📅 2025-07-08 ✅ 2025-08-10
 
