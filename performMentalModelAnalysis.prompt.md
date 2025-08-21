@@ -20,7 +20,7 @@ Your final output should be a structured analytical briefing, following the inst
 
 Before proceeding, verify that two types of files have been provided:
 
-- **A. Mental Models File:** A file containing the conceptual frameworks to be used for the analysis (e.g., `all.md`).
+- **A. Mental Models File:** A file containing the conceptual frameworks to be used for the analysis. It will be located in the Mentale Modelle folder on Google Drive.
     
     - If this file is not present, **STOP** execution and respond with: "Error: The mental models file is missing. Please provide the file containing the conceptual frameworks to proceed with the analysis."
         
