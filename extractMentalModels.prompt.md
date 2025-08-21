@@ -18,8 +18,8 @@ Abstract Principle: A concise, one-paragraph definition explaining the core idea
 Concrete Applications: 
 
 1. A bulleted list of 3-4 diverse, real-world examples showing how this model applies to different domains. 
-2. . Use the domains I've uploaded as $Root (which can be found in GitHub). Halt and ask for this file if I forgot to upload it.
-3. Also, I've uploaded all.md which contain the existing mental models. Please don't create duplicates. Halt and ask for this file if I forgot to upload it.
+2. Use the domains I've uploaded as $Root (which can be found in GitHub). Halt and ask for this file if I forgot to upload it.
+3. Also, I've uploaded Mental Model Catalog.md which contain the existing mental models. Please don't create duplicates. Halt and ask for this file if I forgot to upload it.
 
 Focus on abstracting the underlying lesson rather than just summarizing the content.
 
