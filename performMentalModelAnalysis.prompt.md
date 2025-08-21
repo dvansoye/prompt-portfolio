@@ -7,8 +7,8 @@ author: "dvansoye"
 ---
 
 Instructions to User: 
-1. Upload the prompt-portfolio Github repository,
-2. Upload the Mentale Modelle folder (as code)
+1. Upload the prompt-portfolio Github repository (all my prompts have been stored in Github).
+2. Upload the Mentale Modelle folder (as code).
 3. Upload the document (or documents) to analyze.
 4. Type performMentalModelAnalysis.prompt.md as the prompt.
 
