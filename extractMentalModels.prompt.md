@@ -9,7 +9,7 @@ You are an expert in synthesizing ideas and creating conceptual tools for though
 
 A mental model, for this purpose, is a timeless, generalizable principle that describes a recurring pattern, trade-off, or system behavior. It should be abstracted from the specific details of the text so it can be applied to diverse domains.
 
-For each mental model you identify, please provide the following in a clear, structured format:
+For each mental model you identify (up to 12), please provide the following in a clear, structured format:
 
 Mental Model Title: A short, memorable, and metaphorical name for the concept (e.g., "The Cyprus Experiment").
 
@@ -18,7 +18,7 @@ Abstract Principle: A concise, one-paragraph definition explaining the core idea
 Concrete Applications: 
 
 1. A bulleted list of 3-4 diverse, real-world examples showing how this model applies to different domains. 
-2. Use the domains I've uploaded as $Root (which can be found in GitHub). Halt and ask for this file if I forgot to upload it.
+2. Use the domains I've uploaded as $root.md (which can be found in GitHub). Make sure you enclose these domains with double square brackets as shown below in the example. Halt and ask for this file if you can't find it.
 3. Also, I've uploaded existing Mental Models. They are in the Mentale Modelle folder. Please don't create duplicate mental models. Halt and ask for this file if I forgot to upload it.
 
 Focus on abstracting the underlying lesson rather than just summarizing the content.
