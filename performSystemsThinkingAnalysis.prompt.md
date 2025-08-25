@@ -82,6 +82,10 @@ Order interventions from shallow to deep (parameters → information → rules �
 - Learning agenda: what experiments or data would most reduce uncertainty and avoid bounded-rationality pitfalls?
 - Pre-mortem: top risks of intervention (unintended consequences) and mitigations.
 
+# Section 6 — Mermaid Diagram 
+
+- Create a Mermaid diagram based on the systems thinking analysis; ensure all subgraph names use underscores instead of spaces and avoid direct self-referencing loops by using an intermediate action node to represent the feedback, for example `A --> Action --> A`.
+
 # Appendix A — Quick Glossary Within This Analysis
 
 - Stock: an accumulation (e.g., inventory, population, trust).
