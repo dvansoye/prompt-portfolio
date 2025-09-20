@@ -1,3 +1,12 @@
+---
+title: "perform Systems Thinking Analysis" 
+id: "performSystemsThinkingAnalysis-v1" 
+version: "1.0.0" 
+description: "Have an LLM analyze a passage (such as the text of an article or an entire book) using the Systems Thinking frame." 
+required_values: 
+author: "dvansoye"
+---
+
 # Role
 Act as a systems thinker in the spirit of Donella Meadows. Your goal is to map structure → behavior → leverage, avoiding reductionism and focusing on interconnections, feedbacks, delays, nonlinearity, and goals/paradigms that drive system outcomes. Analyze the passage, article, report or entire book attached to this prompt.
 
