@@ -36,4 +36,4 @@ Paul's letter to the Romans lays out a comprehensive theology of salvation throu
 
 # Constraints
 
-- Make sure that you add a header at the beginning that says "# Book Summary" as in the example below.
+- Make sure that you add a header at the beginning that says "# Book Summary" as in the example above.
