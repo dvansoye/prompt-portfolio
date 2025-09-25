@@ -102,7 +102,7 @@ Order interventions from shallow to deep (parameters → information → rules �
 ## Section 6 — Mermaid Diagram 
 
 - Create a Mermaid diagram based on the systems thinking analysis; ensure all subgraph names use underscores instead of spaces and avoid direct self-referencing loops by using an intermediate action node to represent the feedback, for example `A --> Action --> A`.
-- I'm using Obsidian. So, please simplify your use of advance mermaid constructs.
+- Note: Subgraphs in Mermaid cannot be referenced as nodes; only plain named nodes can be linked.
 
 ## Appendix A — Quick Glossary Within This Analysis
 
