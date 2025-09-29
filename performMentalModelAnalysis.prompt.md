@@ -32,7 +32,7 @@ B. Target Analysis File(s): One or more documents to be analyzed.
 # 3. Output Requirements 
 
 - Output in markdown format.
-- Ensure that the first line of output is "Mental Model Analysis" as shown below.
+- Ensure that the first line of output is "# Mental Model Analysis" as shown below.
 
 # 4. Analysis Sections to Generate
 
@@ -81,9 +81,7 @@ To ensure clarity on the expected output, here is an example of Section 1 based 
 
 ## Corresponding Output:
 
-Here is the requested analysis.
-
-# Systems Thinking Analysis
+# Mental Model Analysis
 
 ## Section 1: Mental Model Application Matrix
 
