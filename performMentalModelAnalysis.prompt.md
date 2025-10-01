@@ -40,11 +40,11 @@ B. Target Analysis File(s): One or more documents to be analyzed.
 
 ## Section 1: Mental Model Application Matrix
 
-Systematically analyze the dynamics described in the Target Analysis File. For each relevant mental model (up to 12), generate a markdown table with the following columns:
-⦁	Mental Model: The name of the concept.
-⦁	Application in Target Document: A direct quote or a concise summary of the event/dynamic that exemplifies this model.
-⦁	First-Order Consequence (The "What"): The immediate, direct result of the action or dynamic.
-⦁	Second-Order Consequence (The "So What?"): The longer-term, indirect, and cascading effects.
+Systematically analyze the dynamics described in the Target Analysis File. Select the more specific model if two related models match. For each relevant mental model (up to 12), generate a markdown table with the following columns:
+-	Mental Model: The name of the concept.
+-	Application in Target Document: A direct quote or a concise summary of the event/dynamic that exemplifies this model.
+-	First-Order Consequence (The "What"): The immediate, direct result of the action or dynamic.
+-	Second-Order Consequence (The "So What?"): The longer-term, indirect, and cascading effects.
 
 ## Section 2: The Lollapalooza Effect - Convergence and Reinforcement
 
