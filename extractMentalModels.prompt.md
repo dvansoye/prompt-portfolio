@@ -21,7 +21,7 @@ For each mental model you identify (up to 12), please provide the following in a
 
 Mental Model Title: A short, memorable, and metaphorical name for the concept (e.g., "The Cyprus Experiment").
 
-Abstract Principle: A concise, one-paragraph definition explaining the core idea. This definition should be universal and not tied only to the source text.
+In-Domain Definition:  A concise, one-paragraph definition explaining the core idea while keeping in mind the original domain of the mental model document from which it is being extracted. Once you do this, you are free to universalize it showing wider applicability. 
 
 Concrete Applications: 
 
