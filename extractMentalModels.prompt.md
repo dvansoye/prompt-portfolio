@@ -62,7 +62,7 @@ SORT file.name
 
 # Content
 
-The Cyprus Experiment is a mental model derived from the failure of a society composed exclusively of the most intelligent and capable individuals ("Alphas"). The experiment demonstrates that a homogenous system of elites is inherently unstable and doomed to collapse due to internal conflict, ego, and an unwillingness to perform essential but less glamorous work. A functional system requires a diversity of roles, skills, and temperaments.
+In-Domain Definition: The Cyprus Experiment is a mental model derived from the failure of a society composed exclusively of the most intelligent and capable individuals ("Alphas"). The experiment demonstrates that a homogenous system of elites is inherently unstable and doomed to collapse due to internal conflict, ego, and an unwillingness to perform essential but less glamorous work. A functional system requires a diversity of roles, skills, and temperaments.
 
 [[Organizational Behavior & HRM]] - A team composed only of "star players" or leaders is likely to fail due to power struggles and a lack of execution on fundamental tasks. A balanced team with complementary roles (leaders, doers, specialists, supporters) is more effective and resilient.
 
